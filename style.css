@@ -1,0 +1,19 @@
+h1 {
+    color:rgb(34, 64, 218)
+}
+
+.mainframe {
+    background-color: burlywood;
+    border-style: dotted;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.author_area {
+    font-family: cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
